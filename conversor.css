@@ -1,0 +1,44 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/221517.jpg");
+    background-repeat: no-repeat;
+    background-size: 190vh;
+    
+  }
+  h1{
+    text-align: center;
+    font-size: 44px;
+    font-family:Haettenschweiler;
+  }
+  h2{
+    text-align:center;
+    text-size-adjust:24px;
+    font-family: georgian;
+    color: white;
+  }
+  h3 {
+    text-align:center;
+    color: white;
+  }
+  
+  
+  div{
+      text-align: center;  
+  }
+  input{
+        padding: .8rem 1.5rem;
+      margin: 1rem 0;
+      border-radius: 5px;
+      border: none;
+      font-size: 1rem;
+      margin-top:25px;
+      height: 20px;
+  }
+  button{
+        padding: .8rem 1.5rem;
+      margin: 1rem 0;
+      border-radius: 5px;
+      border: none;
+      font-size: 1rem;
+      margin-top:25px;
+      height: 50px;
+  }
